@@ -116,7 +116,7 @@ A web-based application built with Django and MySQL (XAMPP) that allows users to
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Muhammad%20Farzan-7dd3fc?style=for-the-badge&logo=linkedin&logoColor=black)]([https://www.linkedin.com/in/muhammad-farzan](https://www.linkedin.com/in/muhammad-farzan-641411357/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Muhammad%20Farzan-7dd3fc?style=for-the-badge&logo=linkedin&logoColor=black)]([(https://www.linkedin.com/in/muhammad-farzan-641411357/)])
 
 </div>
 
