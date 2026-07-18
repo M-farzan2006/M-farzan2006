@@ -1,153 +1,160 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0f172a,50:0284c7,100:7dd3fc&height=260&section=header&text=MUHAMMAD%20FARZAN&fontSize=46&fontColor=7dd3fc&animation=fadeIn&fontAlignY=38&desc=Turning%20Raw%20Data%20Into%20Real%20Decisions&descAlignY=58&descSize=18&descColor=e2e8f0" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1b2a,50:1b263b,100:415a77&height=220&section=header&text=MUHAMMAD%20FARZAN&fontSize=42&fontColor=e0e1dd&animation=fadeIn&fontAlignY=40&desc=Data%20Science%20%7C%20Machine%20Learning%20%7C%20Full-Stack%20Systems&descAlignY=58&descSize=16&descColor=778da9" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=7DD3FC&center=true&vCenter=true&width=700&lines=Data+Science+Student+%40+building+ML+systems;Classification+%7C+Clustering+%7C+Data+Engineering;Django+%2B+MySQL+for+full-stack+delivery;Currently+open+to+internships+%26+collab" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&pause=1200&color=E0A458&center=true&vCenter=true&width=750&lines=Building+machine+learning+systems+that+ship;Classification+%E2%80%A2+Clustering+%E2%80%A2+Data+Pipelines;Full-stack+delivery+with+Django+%2B+MySQL;Currently+seeking+internships+%26+collaborations" alt="Typing SVG" />
 
 <br/>
 
-<img src="https://img.shields.io/badge/%E2%9A%A1_OPEN_TO_WORK-0f172a?style=for-the-badge&labelColor=7dd3fc&color=0f172a" />
-<img src="https://komarev.com/ghpvc/?username=M-farzan2006&label=PROFILE+VISITS&color=0f172a&style=for-the-badge" />
-<img src="https://img.shields.io/github/followers/M-farzan2006?label=FOLLOWERS&style=for-the-badge&labelColor=7dd3fc&color=0f172a" />
+<a href="https://www.linkedin.com/in/muhammad-farzan-641411357/">
+<img src="https://img.shields.io/badge/LinkedIn-0D1B2A?style=for-the-badge&logo=linkedin&logoColor=E0A458&labelColor=0D1B2A" />
+</a>
+<a href="https://github.com/M-farzan2006">
+<img src="https://img.shields.io/badge/GitHub-0D1B2A?style=for-the-badge&logo=github&logoColor=E0A458&labelColor=0D1B2A" />
+</a>
+<img src="https://img.shields.io/badge/Status-Open_to_Work-1B263B?style=for-the-badge&labelColor=0D1B2A&color=E0A458" />
 
 </div>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
+<br/>
 
-## 👋 About Me
-
-I'm a Data Science student focused on turning messy, real-world data into models and systems people can actually use. My work sits at the intersection of **machine learning** (classification, clustering, feature engineering) and **applied software engineering** (Django, MySQL, full-stack delivery) — I like building things that go beyond a notebook and actually run.
-
-```typescript
-const muhammadFarzan = {
-  role         : "Data Science Student",
-  currentFocus : "Machine Learning + Web Systems",
-  stack: {
-    languages : ["Python"],
-    web       : ["Django", "HTML", "CSS", "JavaScript"],
-    database  : ["MySQL"],
-  },
-  launchedProjects : [
-    "Interactive Data Mining & ML System for CSV Files",
-    "Student Information Management System",
-  ],
-  currentlyLearning : ["Advanced ML Pipelines", "Model Deployment"],
-  openTo            : ["Internships", "Collaborations", "Data Science Roles"],
-} as const;
-```
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
-
-## 🚀 Featured Projects
-
-<table align="center">
+<table width="100%">
 <tr>
-<td width="50%" valign="top">
+<td width="100%">
 
-### 🧠 Data Mining & ML Engine
+## 01 — About
 
-A machine learning pipeline that applies **classification** and **clustering** directly to raw CSV data — handling preprocessing, model selection, and evaluation end-to-end so insights come straight from unstructured input.
+I'm a Data Science student who builds machine learning systems end-to-end — from raw, messy CSV data to trained models, and from database schema to a working web application. I care less about theory sitting in a notebook and more about software that actually runs, gets used, and holds up.
 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=M-farzan2006&repo=Interactive-Data-Mining-Machine-Learning-System-For-CSV-files&theme=tokyonight&border_color=7dd3fc&title_color=7dd3fc&icon_color=7dd3fc&bg_color=0f172a" />
-
-| Layer | Technology |
-|:---|:---|
-| 🐍 Language | Python |
-| 🤖 Domain | Classification & Clustering |
-| 📄 Input | CSV Files |
-
-**[⚡ View Repository](https://github.com/M-farzan2006/Interactive-Data-Mining-Machine-Learning-System-For-CSV-files)**
-
-</td>
-<td width="50%" valign="top">
-
-### 🎓 Student Info Management System
-
-A full-stack web application for managing student records end-to-end — built with **Django** on the backend and **MySQL** for persistence, deployed locally via XAMPP.
-
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=M-farzan2006&repo=Student-Information-Management-Syatem&theme=tokyonight&border_color=7dd3fc&title_color=7dd3fc&icon_color=7dd3fc&bg_color=0f172a" />
-
-| Layer | Technology |
-|:---|:---|
-| ⚙️ Backend | Django |
-| 🗄️ Database | MySQL (XAMPP) |
-| 🌐 Type | Web Application |
-
-**[⚡ View Repository](https://github.com/M-farzan2006/Student-Information-Management-Syatem)**
+My current focus is split across two disciplines that most people keep separate: **applied ML** (classification, clustering, feature engineering, model evaluation) and **full-stack engineering** (Django, MySQL, relational design). I like projects that force both — a model is only as useful as the system that serves it.
 
 </td>
 </tr>
 </table>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
+<br/>
 
-## 🛠️ Tech Stack
+## 02 — Core Competencies
+
+<table width="100%">
+<tr>
+<th align="left" width="25%">Domain</th>
+<th align="left" width="75%">Details</th>
+</tr>
+<tr>
+<td><strong>🐍 Programming</strong></td>
+<td>Python — primary language for data processing, modeling, and scripting</td>
+</tr>
+<tr>
+<td><strong>🤖 Machine Learning</strong></td>
+<td>Classification, clustering, preprocessing pipelines, model evaluation on unstructured/raw tabular data</td>
+</tr>
+<tr>
+<td><strong>🌐 Web Development</strong></td>
+<td>Django (backend architecture, ORM, routing), HTML, CSS, JavaScript</td>
+</tr>
+<tr>
+<td><strong>🗄️ Databases</strong></td>
+<td>MySQL — schema design, queries, relational data management (via XAMPP)</td>
+</tr>
+<tr>
+<td><strong>🔧 Currently Learning</strong></td>
+<td>Advanced ML pipelines, model deployment, production-grade data engineering</td>
+</tr>
+</table>
+
+<br/>
+
+## 03 — Featured Work
+
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+<h3>🧠 Interactive Data Mining & ML Engine</h3>
+
+A Python-based machine learning system that ingests raw CSV files and runs full classification and clustering pipelines — covering preprocessing, model selection, and evaluation without manual data wrangling.
+
+**Stack:** Python · scikit-learn-style ML workflow · CSV data pipelines
+
+**Key capability:** Turns unstructured tabular input directly into usable classification/clustering output, closing the gap between raw data and a working model.
+
+<a href="https://github.com/M-farzan2006/Interactive-Data-Mining-Machine-Learning-System-For-CSV-files">
+<img src="https://img.shields.io/badge/View_Repository-1B263B?style=for-the-badge&logoColor=E0A458&labelColor=0D1B2A&color=1B263B" />
+</a>
+
+</td>
+<td width="50%" valign="top">
+<h3>🎓 Student Information Management System</h3>
+
+A full-stack web application for managing student records, built on Django with a MySQL backend. Handles CRUD operations, relational data modeling, and a functioning web interface deployed via XAMPP.
+
+**Stack:** Django · MySQL · HTML/CSS/JS
+
+**Key capability:** Demonstrates full request-to-database lifecycle — from UI forms through Django views/ORM to persistent relational storage.
+
+<a href="https://github.com/M-farzan2006/Student-Information-Management-Syatem">
+<img src="https://img.shields.io/badge/View_Repository-1B263B?style=for-the-badge&logoColor=E0A458&labelColor=0D1B2A&color=1B263B" />
+</a>
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+## 04 — Tech Stack
 
 <div align="center">
 
-**Languages**
-<br/>
-<img src="https://skillicons.dev/icons?i=python&theme=dark" />
-
-<br/><br/>
-
-**Web Development**
-<br/>
-<img src="https://skillicons.dev/icons?i=django,html,css,js&theme=dark" />
-
-<br/><br/>
-
-**Database & Tools**
-<br/>
-<img src="https://skillicons.dev/icons?i=mysql,git,github,vscode&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python,django,mysql,html,css,js,git,github,vscode&theme=dark" />
 
 </div>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
+<br/>
 
-## 📊 GitHub Analytics
+## 05 — GitHub Metrics
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=M-farzan2006&show_icons=true&theme=tokyonight&border_color=7dd3fc&title_color=7dd3fc&icon_color=7dd3fc&bg_color=0f172a&hide_border=false" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=M-farzan2006&layout=compact&theme=tokyonight&border_color=7dd3fc&title_color=7dd3fc&bg_color=0f172a" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=M-farzan2006&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0D1B2A&title_color=E0A458&icon_color=E0A458&text_color=E0E1DD&ring_color=415A77" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=M-farzan2006&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0D1B2A&title_color=E0A458&text_color=E0E1DD" height="165"/>
 
-<img src="https://streak-stats.demolab.com?user=M-farzan2006&theme=tokyonight&border=7dd3fc&ring=7dd3fc&fire=7dd3fc&background=0f172a" />
+<img src="https://streak-stats.demolab.com?user=M-farzan2006&hide_border=true&background=0D1B2A&ring=E0A458&fire=E0A458&currStreakLabel=E0A458&sideLabels=E0E1DD&currStreakNum=E0E1DD&sideNums=E0E1DD&dates=778DA9" />
 
-<img src="https://github-profile-trophy.vercel.app/?username=M-farzan2006&no-frame=true&no-bg=true&theme=tokyonight&row=1" />
+<img src="https://github-profile-trophy.vercel.app/?username=M-farzan2006&no-frame=true&no-bg=true&theme=darkhub&row=1&column=6" />
 
 </div>
 
-## 📈 Contribution Snake
+<br/>
+
+## 06 — Activity
 
 <div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=M-farzan2006&theme=react-dark&bg_color=0D1B2A&color=E0A458&line=E0A458&point=E0E1DD&area=true&area_color=415A77&hide_border=true" width="100%"/>
+
+<br/><br/>
 
 <img src="https://raw.githubusercontent.com/M-farzan2006/M-farzan2006/output/github-contribution-grid-snake.svg" width="100%" alt="contribution snake"/>
 
-<sub>⚙️ Animates automatically once the <a href="https://github.com/Platane/snk">Platane/snk</a> GitHub Action is set up on this repo.</sub>
+<sub>Animates automatically once the <a href="https://github.com/Platane/snk">Platane/snk</a> GitHub Action is configured on this repo.</sub>
 
 </div>
 
-## 🌊 Activity Graph
+<br/>
+
+## 07 — Get In Touch
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=M-farzan2006&theme=tokyo-night&color=7dd3fc&line=7dd3fc&point=ffffff&area=true&area_color=7dd3fc&bg_color=0f172a" width="100%"/>
+I'm actively looking for **internships**, **collaborative projects**, and **entry-level data science roles**. If you're working on something interesting in ML, data engineering, or full-stack systems, reach out.
+
+<a href="https://www.linkedin.com/in/muhammad-farzan-641411357/">
+<img src="https://img.shields.io/badge/Let's_Connect_on_LinkedIn-0D1B2A?style=for-the-badge&logo=linkedin&logoColor=E0A458&labelColor=0D1B2A" />
+</a>
 
 </div>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
+<br/>
 
-## 📡 Let's Connect
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Muhammad_Farzan-0f172a?style=for-the-badge&logo=linkedin&logoColor=7dd3fc&labelColor=0f172a)](https://www.linkedin.com/in/muhammad-farzan-641411357/)
-
-*Open to internships, collaborations, and data science opportunities — feel free to reach out.*
-
-</div>
-
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:7dd3fc,50:0284c7,100:0f172a&height=180&section=footer&animation=fadeIn" width="100%"/>
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:415a77,50:1b263b,100:0d1b2a&height=150&section=footer" width="100%"/>
