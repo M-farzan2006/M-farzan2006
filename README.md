@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0f172a,50:0284c7,100:7dd3fc&height=260&section=header&text=MUHAMMAD%20FARZAN&fontSize=46&fontColor=7dd3fc&animation=fadeIn&fontAlignY=38&desc=Turning%20Raw%20Data%20Into%20Real%20Decisions&descAlignY=58&descSize=18&descColor=e2e8f0" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2800&pause=900&color=7DD3FC&center=true&vCenter=true&width=680&lines=%3E+whoami+%3D%3D+data_science_student;%3E+building+ML+systems+from+scratch;%3E+classification+%7C+clustering+%7C+CSV+wizardry;%3E+status%3A+open_to_work+%3D+true" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=7DD3FC&center=true&vCenter=true&width=700&lines=Data+Science+Student+%40+building+ML+systems;Classification+%7C+Clustering+%7C+Data+Engineering;Django+%2B+MySQL+for+full-stack+delivery;Currently+open+to+internships+%26+collab" alt="Typing SVG" />
 
 <br/>
 
@@ -14,7 +14,9 @@
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
 
-<h3 align="center">💻 &nbsp; <code>const identity = {</code></h3>
+## 👋 About Me
+
+I'm a Data Science student focused on turning messy, real-world data into models and systems people can actually use. My work sits at the intersection of **machine learning** (classification, clustering, feature engineering) and **applied software engineering** (Django, MySQL, full-stack delivery) — I like building things that go beyond a notebook and actually run.
 
 ```typescript
 const muhammadFarzan = {
@@ -26,20 +28,17 @@ const muhammadFarzan = {
     database  : ["MySQL"],
   },
   launchedProjects : [
-    "🧠 Interactive Data Mining & ML System for CSV Files",
-    "🎓 Student Information Management System",
+    "Interactive Data Mining & ML System for CSV Files",
+    "Student Information Management System",
   ],
-  certifications : [],
-  status         : "🔥 Actively Building & Learning",
-  openTo         : ["Internships", "Collaborations", "Data Science Roles"],
+  currentlyLearning : ["Advanced ML Pipelines", "Model Deployment"],
+  openTo            : ["Internships", "Collaborations", "Data Science Roles"],
 } as const;
 ```
 
-<h3 align="center"><code>};</code></h3>
-
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
 
-<h2 align="center">🚀 Featured Builds</h2>
+## 🚀 Featured Projects
 
 <table align="center">
 <tr>
@@ -47,7 +46,7 @@ const muhammadFarzan = {
 
 ### 🧠 Data Mining & ML Engine
 
-> A machine learning system that applies **classification** and **clustering** directly on raw CSV data — no fuss, just insights.
+A machine learning pipeline that applies **classification** and **clustering** directly to raw CSV data — handling preprocessing, model selection, and evaluation end-to-end so insights come straight from unstructured input.
 
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=M-farzan2006&repo=Interactive-Data-Mining-Machine-Learning-System-For-CSV-files&theme=tokyonight&border_color=7dd3fc&title_color=7dd3fc&icon_color=7dd3fc&bg_color=0f172a" />
 
@@ -57,14 +56,14 @@ const muhammadFarzan = {
 | 🤖 Domain | Classification & Clustering |
 | 📄 Input | CSV Files |
 
-**[⚡ View Code](https://github.com/M-farzan2006/Interactive-Data-Mining-Machine-Learning-System-For-CSV-files)**
+**[⚡ View Repository](https://github.com/M-farzan2006/Interactive-Data-Mining-Machine-Learning-System-For-CSV-files)**
 
 </td>
 <td width="50%" valign="top">
 
 ### 🎓 Student Info Management System
 
-> A full web application for managing student records — built with **Django** and **MySQL**, powered by XAMPP.
+A full-stack web application for managing student records end-to-end — built with **Django** on the backend and **MySQL** for persistence, deployed locally via XAMPP.
 
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=M-farzan2006&repo=Student-Information-Management-Syatem&theme=tokyonight&border_color=7dd3fc&title_color=7dd3fc&icon_color=7dd3fc&bg_color=0f172a" />
 
@@ -74,7 +73,7 @@ const muhammadFarzan = {
 | 🗄️ Database | MySQL (XAMPP) |
 | 🌐 Type | Web Application |
 
-**[⚡ View Code](https://github.com/M-farzan2006/Student-Information-Management-Syatem)**
+**[⚡ View Repository](https://github.com/M-farzan2006/Student-Information-Management-Syatem)**
 
 </td>
 </tr>
@@ -82,7 +81,7 @@ const muhammadFarzan = {
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
 
-<h2 align="center">🛠️ Arsenal</h2>
+## 🛠️ Tech Stack
 
 <div align="center">
 
@@ -98,15 +97,15 @@ const muhammadFarzan = {
 
 <br/><br/>
 
-**Database**
+**Database & Tools**
 <br/>
-<img src="https://skillicons.dev/icons?i=mysql&theme=dark" />
+<img src="https://skillicons.dev/icons?i=mysql,git,github,vscode&theme=dark" />
 
 </div>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
 
-<h2 align="center">📊 The Numbers</h2>
+## 📊 GitHub Analytics
 
 <div align="center">
 
@@ -119,17 +118,17 @@ const muhammadFarzan = {
 
 </div>
 
-<h2 align="center">📈 Contribution Snake</h2>
+## 📈 Contribution Snake
 
 <div align="center">
 
 <img src="https://raw.githubusercontent.com/M-farzan2006/M-farzan2006/output/github-contribution-grid-snake.svg" width="100%" alt="contribution snake"/>
 
-<sub>⚙️ Animates automatically once the <a href="https://github.com/Platane/snk">Platane/snk</a> GitHub Action is set up on this repo — see note below.</sub>
+<sub>⚙️ Animates automatically once the <a href="https://github.com/Platane/snk">Platane/snk</a> GitHub Action is set up on this repo.</sub>
 
 </div>
 
-<h2 align="center">🌊 Activity Graph</h2>
+## 🌊 Activity Graph
 
 <div align="center">
 
@@ -139,11 +138,13 @@ const muhammadFarzan = {
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
 
-<h2 align="center">📡 Let's Connect</h2>
+## 📡 Let's Connect
 
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Muhammad_Farzan-0f172a?style=for-the-badge&logo=linkedin&logoColor=7dd3fc&labelColor=0f172a)](https://www.linkedin.com/in/muhammad-farzan-641411357/)
+
+*Open to internships, collaborations, and data science opportunities — feel free to reach out.*
 
 </div>
 
